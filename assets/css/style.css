@@ -1,0 +1,8 @@
+body {
+    background-image: url(../images/morocco.png)
+}
+.jumbotron {
+    background-color: #FFFFFF!important;
+    margin-top: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
