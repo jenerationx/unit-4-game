@@ -19,7 +19,7 @@ $(document).ready(function () {
     $("#loss-total").text(losses);
     $("#wins-total").text(wins);
 
-    // Each crystal should have a random hidden value between 1 - 12. -done but not loving it
+    // Each crystal should have a random hidden value between 1 - 12. -done
 
     blueNum = Math.floor(Math.random() * 12 + 1);
     purpleNum = Math.floor(Math.random() * 12 + 1);
@@ -67,8 +67,7 @@ $(document).ready(function () {
   // When the game begins again, the player should see a new random number. -done 
   // Also, all the crystals will have four new hidden values. -done
 
-  //Of course, the user's score (and score counter) will reset to zero.
+  //Of course, the user's score (and score counter) will reset to zero. -done
 
-  // The app should show the number of games the player wins and loses. To that end, do not refresh the page as a means to restart the game
-  //**  this only works on the 2nd win and loss
+  // The app should show the number of games the player wins and loses. To that end, do not refresh the page as a means to restart the game -done
 });

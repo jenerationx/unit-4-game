@@ -12,3 +12,5 @@ The player wins if their counter total matches the random number from the beginn
 The game restarts whenever the player wins or loses. 
 
 When the game begins again, the player will see a new random number. Also, all the crystals will have four new hidden values.
+
+Live Demo here:  https://jenerationx.github.io/unit-4-game/
