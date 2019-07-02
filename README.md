@@ -1,5 +1,8 @@
-# unit-4-game - Crystal Collector
-How the game works:
+# Crystal Collector Game
+[Click here to go to the live app!](https://jenerationx.github.io/unit-4-game/)
+
+![Screenshot of Trivia Game](https://github.com/jenerationx/unit-4-game/blob/master/assets/images/screenshot.png)
+## How the game works:
 
 The player will be shown a random number at the start of the game. 
 
