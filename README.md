@@ -1,7 +1,8 @@
 # Crystal Collector Game
 [Click here to go to the live app!](https://jenerationx.github.io/unit-4-game/)
 
-![Screenshot of Trivia Game](https://github.com/jenerationx/unit-4-game/blob/master/assets/images/screenshot.png)
+![Screenshot of Crystal Game](https://github.com/jenerationx/unit-4-game/blob/master/assets/images/screenshot.png)
+
 ## How the game works:
 
 The player will be shown a random number at the start of the game. 
@@ -16,4 +17,11 @@ The game restarts whenever the player wins or loses.
 
 When the game begins again, the player will see a new random number. Also, all the crystals will have four new hidden values.
 
-Live Demo here:  https://jenerationx.github.io/unit-4-game/
+### Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Bootstrap
+
